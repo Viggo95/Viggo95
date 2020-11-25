@@ -7,8 +7,6 @@
 - 🦄 &nbsp;I will invest my time in [Vuese](https://github.com/vuese/vuese)
 
 
-
-<br>
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=screetBloom.screetBloom)
