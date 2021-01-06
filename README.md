@@ -27,8 +27,6 @@
 <br>
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=screetBloom.screetBloom)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=screetBloom&&show_icons=true&theme=github" />
