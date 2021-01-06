@@ -1,5 +1,14 @@
 
 
+
+### Hi there 👋
+
+- 🌱 &nbsp;I’m currently learning Node.js
+- 🦄 &nbsp;I will invest my time in [Vuese](https://github.com/vuese/vuese)
+
+<br>
+<br>
+
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -11,16 +20,6 @@
     <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-FM-brightgreen">
     <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-nodejs | javascript | python-blue">
 </div>
-
-
-
-### Hi there 👋
-
-- 🌱 &nbsp;I’m currently learning Node.js
-- 🦄 &nbsp;I will invest my time in [Vuese](https://github.com/vuese/vuese)
-
-<br>
-<br>
 
 
 
