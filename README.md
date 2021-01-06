@@ -7,12 +7,9 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 </p>
-
-<br>
-
 <div align="center">
     <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-FM-brightgreen">
-    <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-nodejs|javascript-blue">
+    <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-nodejs | javascript | python-blue">
 </div>
 
 
