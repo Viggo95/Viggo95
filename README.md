@@ -19,12 +19,16 @@
 <div align="center">
     <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-FM-brightgreen">
     <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-nodejs | javascript | python-blue">
-    <img alt="vistor" style="display: inline;" src="https://visitor-badge.glitch.me/badge?page_id=screetBloom.screetBloom">
+    <img alt="visitors" style="display: inline;" src="https://visitor-badge.glitch.me/badge?page_id=screetBloom.screetBloom">
 </div>
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=screetBloom.screetBloom)
+<br>
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=screetBloom.screetBloom)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=screetBloom&&show_icons=true&theme=github" />
