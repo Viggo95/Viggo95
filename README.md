@@ -18,7 +18,7 @@
 </p>
 <div align="center">
     <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-FM-brightgreen">
-    <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-nodejs | javascript | python-blue | Rust">
+    <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-nodejs | javascript | python-blue | rust">
     <img alt="visitors" style="display: inline;" src="https://visitor-badge.glitch.me/badge?page_id=screetBloom.screetBloom">
 </div>
 
