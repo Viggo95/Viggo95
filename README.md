@@ -34,7 +34,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
+  <img src="https://profile-counter.glitch.me/screetBloom/count.svg" />
 </p>
 
 
