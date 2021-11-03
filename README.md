@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🌱 &nbsp;I’m currently learning Node.js
+- 🌱 &nbsp;I’m currently learning Go & Node.js
 - 🦄 &nbsp;I will invest my time in [Vuese](https://github.com/vuese/vuese)、[esbuild](https://github.com/evanw/esbuild)
 
 <br>
