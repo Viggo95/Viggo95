@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-- 🌱 &nbsp;I’m currently learning Go&Node.js
-- 🦄 &nbsp;I will invest my time in [Vuese](https://github.com/vuese/vuese)、[esbuild](https://github.com/evanw/esbuild)、Rust
+- 🌱 &nbsp;I’m currently learning Rust&Node.js&Go
+- 🦄 &nbsp;I will invest my time in [Vuese](https://github.com/vuese/vuese)、[esbuild](https://github.com/evanw/esbuild)
 
 <br>
 <br>
