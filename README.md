@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 - 🎭 &nbsp;Previous GitHub handle: [@screetBloom](https://github.com/screetBloom)
-- 🌱 &nbsp;I’m currently learning AI&Python&Node.js
+- 🌱 &nbsp;I’m currently learning LLM&Python&Node.js
 - 🦄 &nbsp;I will invest my time in [Vuese](https://github.com/vuese/vuese)、[esbuild](https://github.com/evanw/esbuild)
 
 ### Programming Languages
