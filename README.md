@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-- 🎭 &nbsp;My previous account was @screetBloom. I switched to this new ID.
+- 🎭 &nbsp;My previous account was **@screetBloom. I switched to this new ID**.
 - 🌱 &nbsp;Currently learning LLM&Agent
 
 ### Programming Languages
