@@ -6,7 +6,7 @@
 - 🌱 &nbsp;Currently learning LLM&Agent
 
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,nodejs,ts,rust)
+![Languages](https://skillicons.dev/icons?i=ts,golang,rust,nodejs)
 
 
 
